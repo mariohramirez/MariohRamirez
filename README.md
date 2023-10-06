@@ -9,7 +9,7 @@ My name is Mario Ramírez, I am a Software Engineering student at the Universida
 
 ### Languages and tools:
 
-
+<p align="center">
 <img align="left" alt="CSS3" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="Javascript" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -21,5 +21,6 @@ My name is Mario Ramírez, I am a Software Engineering student at the Universida
 <img align="left" alt="React" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="NextJS" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="Unity" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+</p>
 
 ![mariohramirez's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariohramirez&layout=compact)
